@@ -7,5 +7,6 @@ The 3 customizations that the webpage has are
 - Add an image to the jumbotron
 - Use a custom font on the jumbotron
 
-    Caroline O'Connell
-    December 20th, 2020
+
+        Caroline O'Connell
+        December 20th, 2020
