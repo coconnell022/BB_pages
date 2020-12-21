@@ -7,6 +7,10 @@ The 3 customizations that the webpage has are
 - Add an image to the jumbotron
 - Use a custom font on the jumbotron
 
+## Results
+
+![alt text](https://github.com/coconnell022/BB_pages/blob/main/ImagesReadMe/dashboard.png?raw=true)
+
 
         Caroline O'Connell
         December 20th, 2020
